@@ -1,0 +1,32 @@
+body{
+
+    background-image:linear-gradient(to right, red , green , yellow);
+ 
+ }
+ 
+ input{
+ 
+     border-radius: 15px;
+ 
+ }
+ 
+ button{
+ 
+     border-radius: 15px;
+ 
+ }
+ 
+ .box{
+ 
+     background-color: lightgrey;
+ 
+   width: 1000px;
+ 
+   border: 15px solid green;
+ 
+   padding: 50px;
+ 
+   margin: 20px;
+ 
+ }
+ 
